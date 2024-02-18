@@ -1,6 +1,6 @@
-#MACHINE LEARNING E DATA SCIENCE
+# MACHINE LEARNING E DATA SCIENCE
 
-##Pré-processamento de dados voltados para análise de pagamento de empréstimo.
+## Pré-processamento de dados voltados para análise de pagamento de empréstimo.
 
 Nesse projeto é feito:
  - Pré-processamento de dados;
